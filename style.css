@@ -1,0 +1,25 @@
+p {
+  text-align: center;
+  color : white;
+}
+
+h1 {
+  text-align: center;
+  color : yellow;
+}
+
+.link {
+  font-size: 50px;
+}
+
+.box {
+  margin: 15%;
+}
+
+body {
+  background-color: teal;
+}
+
+h2 {
+  text-align: center;
+}
